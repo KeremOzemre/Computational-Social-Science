@@ -1,0 +1,6 @@
+#UV files
+.venv/
+uv.lock
+
+.env
+*.csv
