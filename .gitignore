@@ -3,4 +3,4 @@
 uv.lock
 
 .env
-*.csv
+*.csv.DS_Store
